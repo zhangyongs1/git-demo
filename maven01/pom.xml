@@ -4,8 +4,9 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
-<!--maven中grouid和artifactId用来唯一确定一个项目的位置666666666-->
 <groupId>com.njwb.demo</groupId>
+<!--maven中grouid和artifactId用来唯一确定一个项目的位置666666666-->
+<!--maven中grouid和artifactId用来唯一确定一个项目的位置888888888-->
 <!--项目名-->
 <artifactId>maven01</artifactId>
 <!--版本号-->
