@@ -6,7 +6,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.njwb.demo</groupId>
 <!--maven中grouid和artifactId用来唯一确定一个项目的位置88888888811111111111111111-->
-<!--项目名-->
+<!--项目名  无聊的人生，只有无聊的dd你-->
 <artifactId>maven01</artifactId>
 <!--55555555555555555555555555555555项目名-->
 <!--版本号-->
